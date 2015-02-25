@@ -1,3 +1,4 @@
+//Ryan Hamilton
 import java.util.*;
 
 public class Silverdollar {
